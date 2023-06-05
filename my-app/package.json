@@ -17,10 +17,11 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@svgr/webpack": "8.0.1",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
     "prettier": "2.8.8",
-    "sass": "^1.62.1",
+    "sass": "1.62.1",
     "stylelint": "15.6.3",
     "typescript": "5.1.3"
   },
