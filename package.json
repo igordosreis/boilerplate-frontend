@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "codebase-front-end",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install" 
+    "prepare": "husky install"
   },
   "dependencies": {
     "@types/node": "20.2.5",
@@ -28,6 +28,7 @@
     "prettier": "2.8.8",
     "sass": "1.62.1",
     "stylelint": "15.6.3",
+    "stylelint-config-standard-scss": "9.0.0",
     "typescript": "5.1.3"
   },
   "volta": {
