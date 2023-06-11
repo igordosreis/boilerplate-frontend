@@ -17,6 +17,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "17.6.5",
+    "@commitlint/config-angular": "17.6.5",
     "@svgr/webpack": "8.0.1",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
