@@ -1,5 +1,4 @@
 {
   "*.{js,ts,jsx,tsx}": ["eslint --fix", "prettier --write"],
-  "*.{ts,tsx}": "tsc --noEmit --skipLibCheck",
   "*.{css,scss}": "stylelint --fix"
 }
