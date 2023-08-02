@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "stylelint": "stylelint '*/.scss'",
+    "stylelint": "stylelint '*.scss'",
     "tsc": "tsc --noEmit --skipLibCheck",
     "prepare": "husky install"
   },
