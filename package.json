@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "stylelint": "stylelint '*.scss'",
-    "tsc": "tsc --noEmit --skipLibCheck",
+    "check-types": "tsc --noEmit --skipLibCheck",
     "prepare": "husky install"
   },
   "dependencies": {
