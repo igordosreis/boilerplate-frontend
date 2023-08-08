@@ -82,3 +82,9 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+// How to use the font import through google font optimization
+// $ff-roboto-mono: var(--ff-roboto_mono);
+// h1 {
+//   font-family: $ff-roboto-mono;
+// }
