@@ -1,3 +1,3 @@
-# codebase-front-end
+# boilerplate-front-end
 
-Codebase for front end projects.
+Boilerplate for front end projects.
