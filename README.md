@@ -50,11 +50,9 @@ npm run dev
 
 ---
 
----
-
 ###### Português
 
-# Boilerplate Front-end para Next.js 13, Typescript e SCSS
+# Boilerplate Front-end para Next.js 13, Typescript e Sass
 
 Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.js, Typescript e Sass e também para prover uma experiência de desenvolvimento consistente, através de ferramentas como Volta, Husky, Lint-staged e ESLint.
 
