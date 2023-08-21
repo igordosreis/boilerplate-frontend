@@ -34,7 +34,10 @@ git clone https://github.com/igordosreis/boilerplate-front-end project-name
 npm install
 ```
 
-Or click the 'Use this template' button at the top of this repository.
+Or click the 'Use this template' button at the top of this repository and then clone the newly created repository. After cloning, run:
+```shell
+npm install
+```
 
 If you want to use Volta:
 
@@ -86,7 +89,10 @@ git clone https://github.com/igordosreis/boilerplate-front-end nome-do-projeto
 npm install
 ```
 
-Ou clique no botão 'Use this template' no topo desse repositório.
+Ou clique no botão 'Use this template' no topo desse repositório e então clone o repositório criado. Após clonar, rode:
+```shell
+npm install
+```
 
 Caso você queira usar o Volta:
 
