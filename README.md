@@ -61,6 +61,7 @@ Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.j
 ### Funcionalidades
 
 - Padrões de código consistentes: em cada commit o Husky executa o Lint-staged, rodando linters, formatando com Prettier e fazendo checagem de tipos em todos os arquivos staged.
+- Linters: ESLint para arquivos .tsx e .ts and Stylelint para arquivos .scss e .css
 - Mensagens de commit padronizadas com Commitlint e Angular Conventional Commits
 - Fixação da versão do Node com o Volta
 
