@@ -69,6 +69,14 @@ Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.j
 
 - Pages router do Next
 
+### Requirements
+
+- Node v16+
+
+- npm v8+
+
+- Volta para automaticamente gerenciar as versões do Node e do npm
+
 ### Como utilizar
 
 Para usar esse boilerplate:
