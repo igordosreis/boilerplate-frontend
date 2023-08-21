@@ -2,11 +2,11 @@
 
 # Front-end Boilerplate for Next.js 13, Typescript and Sass
 
-A simple boilerplate designed to get front-end projects up and running quickly using Next.js, Typescript, and Sass, while providing a consistent developer experience, with tools like Volta, Husky, Lint-staged and ESLint.
+A simple boilerplate designed to get front-end projects up and running quickly using Next.js, Typescript and Sass, while providing a consistent developer experience, with tools like Volta, Husky, Lint-staged and ESLint.
 
 ### Features
 
-- Consistent code standards: on every commit Husky, executes Lint-staged, running linters, formating with Prettier and type checking all staged files.
+- Consistent code standards: on every commit Husky executes Lint-staged, running linters, formating with Prettier and type checking all staged files.
 - Linters: ESLint for .tsx and .ts files and Stylelint for .scss and .css files
 - Standardized commit messages with Commitlint and Angular Conventional Commits
 - Node version locking with Volta
