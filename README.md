@@ -61,7 +61,7 @@ Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.j
 - Padrões de código consistentes: em cada commit o Husky executa o Lint-staged, rodando linters, formatando com Prettier e fazendo checagem de tipos em todos os arquivos staged.
 - Linters: ESLint para arquivos .tsx e .ts and Stylelint para arquivos .scss e .css
 - Mensagens de commit padronizadas com Commitlint e Angular Conventional Commits
-- Fixação da versão do Node com o Volta
+- Versão do Node fixa com o Volta
 
 - Sass: Syntactically Awesome Style Sheets também conhecido como CSS com super poderes
 
@@ -74,7 +74,7 @@ Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.j
 Para usar esse boilerplate:
 
 ```shell
-git clone https://github.com/igordosreis/boilerplate-front-end project-name
+git clone https://github.com/igordosreis/boilerplate-front-end nome-do-projeto
 npm install
 ```
 
