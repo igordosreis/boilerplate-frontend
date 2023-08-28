@@ -19,11 +19,11 @@ A simple boilerplate designed to get front-end projects up and running quickly u
 
 ### Requirements
 
-- Node v16+
+- Node ^16
 
-- npm v8+
+- npm ^8
 
-- Volta for automatically managing Node and npm versions
+- Volta if you want to automatically manage Node and npm versions
 
 ### Getting started
 
@@ -35,6 +35,7 @@ npm install
 ```
 
 Or click the 'Use this template' button at the top of this repository and then clone the newly created repository. After cloning, run:
+
 ```shell
 npm install
 ```
@@ -74,11 +75,11 @@ Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.j
 
 ### Requirements
 
-- Node v16+
+- Node ^16
 
-- npm v8+
+- npm ^8
 
-- Volta para automaticamente gerenciar as versões do Node e do npm
+- Volta caso você queira automaticamente gerenciar as versões do Node e do npm
 
 ### Como utilizar
 
@@ -90,6 +91,7 @@ npm install
 ```
 
 Ou clique no botão 'Use this template' no topo desse repositório e então clone o repositório criado. Após clonar, rode:
+
 ```shell
 npm install
 ```
