@@ -9,6 +9,7 @@ A simple boilerplate designed to get frontend projects up and running quickly us
 - Consistent code standards: on every commit Husky executes Lint-staged, running linters, formating with Prettier and type checking all staged files.
 - Linters: ESLint for .tsx and .ts files and Stylelint for .scss and .css files
 - Standardized commit messages with Commitlint and Angular Conventional Commits
+- Docker: easily run the project inside a dedicated container
 - Node version locking with Volta
 
 - Sass: Syntactically Awesome Style Sheets aka CSS with superpowers
@@ -26,6 +27,29 @@ A simple boilerplate designed to get frontend projects up and running quickly us
 - Volta if you want to automatically manage Node and npm versions
 
 ### Getting started
+
+#### With Docker:
+
+To use this boilerplate:
+
+```shell
+git clone https://github.com/igordosreis/boilerplate-frontend project-name
+docker compose up -d
+```
+
+Or click the 'Use this template' button at the top of this repository and then clone the newly created repository. After cloning, run:
+
+```shell
+docker compose up -d
+```
+
+To run the project in development mode, on the root of the project run:
+
+```shell
+docker compose up -d
+```
+
+#### Locally:
 
 To use this boilerplate:
 
