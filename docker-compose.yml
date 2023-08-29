@@ -1,0 +1,15 @@
+version: '3.9'
+services:
+  frontend:
+    container_name: frontend-app
+    build: .
+    ports:
+      - 3000:3000
+    platform: linux/x86_64
+    working_dir: /frontend-app
+    volumes:
+      - .:/frontend-app
+    healthcheck:
+      test: ['CMD', 'lsof', '-t', '-i:3000']
+      timeout: 10s
+      retries: 5
