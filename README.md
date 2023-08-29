@@ -24,6 +24,8 @@ A simple boilerplate designed to get frontend projects up and running quickly us
 
 - npm ^8
 
+- Docker if you want to run the app in a container
+
 - Volta if you want to automatically manage Node and npm versions
 
 ### Getting started
@@ -102,6 +104,8 @@ Um boilerplate simples concebido para rapidamente iniciar projetos frontend usan
 - Node ^16
 
 - npm ^8
+
+- Docker caso você queira rodar o app em um container
 
 - Volta caso você queira automaticamente gerenciar as versões do Node e do npm
 
