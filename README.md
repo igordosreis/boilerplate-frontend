@@ -1,8 +1,8 @@
 ###### English
 
-# Front-end Boilerplate for Next.js 13, Typescript and Sass
+# Frontend Boilerplate for Next.js 13, Typescript and Sass
 
-A simple boilerplate designed to get front-end projects up and running quickly using Next.js, Typescript and Sass, while providing a consistent developer experience, with tools like Volta, Husky, Lint-staged and ESLint.
+A simple boilerplate designed to get frontend projects up and running quickly using Next.js, Typescript and Sass, while providing a consistent developer experience, with tools like Volta, Husky, Lint-staged and ESLint.
 
 ### Features
 
@@ -30,7 +30,7 @@ A simple boilerplate designed to get front-end projects up and running quickly u
 To use this boilerplate:
 
 ```shell
-git clone https://github.com/igordosreis/boilerplate-front-end project-name
+git clone https://github.com/igordosreis/boilerplate-frontend project-name
 npm install
 ```
 
@@ -56,9 +56,9 @@ npm run dev
 
 ###### Português
 
-# Boilerplate Front-end para Next.js 13, Typescript e Sass
+# Boilerplate Frontend para Next.js 13, Typescript e Sass
 
-Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.js, Typescript e Sass e também para prover uma experiência de desenvolvimento consistente, através de ferramentas como Volta, Husky, Lint-staged e ESLint.
+Um boilerplate simples concebido para rapidamente iniciar projetos frontend usando Next.js, Typescript e Sass e também para prover uma experiência de desenvolvimento consistente, através de ferramentas como Volta, Husky, Lint-staged e ESLint.
 
 ### Funcionalidades
 
@@ -86,7 +86,7 @@ Um boilerplate simples concebido para rapidamente iniciar projetos usando Next.j
 Para usar esse boilerplate:
 
 ```shell
-git clone https://github.com/igordosreis/boilerplate-front-end nome-do-projeto
+git clone https://github.com/igordosreis/boilerplate-frontend nome-do-projeto
 npm install
 ```
 
