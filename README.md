@@ -45,7 +45,7 @@ Or click the 'Use this template' button at the top of this repository and then c
 docker compose up -d
 ```
 
-To run the project in development mode, on the root of the project run:
+To run the project in development mode:
 
 ```shell
 docker compose up -d
@@ -110,6 +110,29 @@ Um boilerplate simples concebido para rapidamente iniciar projetos frontend usan
 - Volta caso você queira automaticamente gerenciar as versões do Node e do npm
 
 ### Como utilizar
+
+#### Com Docker:
+
+Para usar esse boilerplate:
+
+```shell
+git clone https://github.com/igordosreis/boilerplate-frontend project-name
+docker compose up -d
+```
+
+Ou clique no botão 'Use this template' no topo desse repositório e então clone o repositório criado. Após clonar, rode:
+
+```shell
+docker compose up -d
+```
+
+Para rodar o projeto localmente em modo de desenvolvimento:
+
+```shell
+docker compose up -d
+```
+
+#### Localmente:
 
 Para usar esse boilerplate:
 
