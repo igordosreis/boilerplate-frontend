@@ -36,6 +36,7 @@ To use this boilerplate:
 
 ```shell
 git clone https://github.com/igordosreis/boilerplate-frontend project-name
+cd project-name
 docker compose up -d
 ```
 
@@ -57,6 +58,7 @@ To use this boilerplate:
 
 ```shell
 git clone https://github.com/igordosreis/boilerplate-frontend project-name
+cd project-name
 npm install
 ```
 
@@ -117,6 +119,7 @@ Para usar esse boilerplate:
 
 ```shell
 git clone https://github.com/igordosreis/boilerplate-frontend project-name
+cd nome-do-projeto
 docker compose up -d
 ```
 
@@ -138,6 +141,7 @@ Para usar esse boilerplate:
 
 ```shell
 git clone https://github.com/igordosreis/boilerplate-frontend nome-do-projeto
+cd nome-do-projeto
 npm install
 ```
 
