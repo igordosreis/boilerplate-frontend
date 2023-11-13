@@ -37,12 +37,14 @@ To use this boilerplate:
 ```shell
 git clone https://github.com/igordosreis/boilerplate-frontend project-name
 cd project-name
+npm install
 docker compose up -d
 ```
 
 Or click the 'Use this template' button at the top of this repository and then clone the newly created repository. After cloning, run:
 
 ```shell
+npm install
 docker compose up -d
 ```
 
